@@ -1,5 +1,7 @@
 # Robust Datasets for Vision-Language Web Agents
 
+![Hackathon Overview](hackathon.png)
+
 ## Overview
 This project focuses on creating robust datasets for training vision-language models (VLMs) to perform web-based tasks, with a particular emphasis on flight booking as a proof of concept. Our work demonstrates that smaller models (3B parameters) can effectively handle web navigation tasks when properly trained on specialized datasets.
 
