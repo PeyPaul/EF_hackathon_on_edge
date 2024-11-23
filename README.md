@@ -67,3 +67,25 @@ We welcome contributions to improve the dataset creation pipeline and model perf
 - H Runner team for proving the concept of edge intelligence
 - Microsoft for OmniParser
 - [Add other acknowledgments as needed]
+
+## Setup
+
+```bash
+python3.10 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Using Omnivision
+
+Get the weights for the model:
+
+```bash
+./setup_omnivision.sh
+```
+To test it out:
+
+```bash
+cd parser
+python parser.py
+```
