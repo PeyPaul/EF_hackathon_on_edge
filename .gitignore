@@ -163,5 +163,8 @@ cython_debug/
 
 parser/model_weights/OmniParser/
 parser/OmniParser/weights/icon_*/
-big_dataset
 first_80
+
+# Ignore everything in the big_dataset folder
+big_dataset/*
+!big_dataset/*.json

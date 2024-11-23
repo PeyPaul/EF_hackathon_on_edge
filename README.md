@@ -58,10 +58,10 @@ Our experiments show that:
 We welcome contributions to improve the dataset creation pipeline and model performance. Please see our contribution guidelines for more information.
 
 ## License
-[Insert License Information]
+Project is MIT Licensed.
 
 ## Contact
-[Insert Contact Information]
+Contact Axel Darmouni, Anas Lecaillon, or Paul Peytevin for more details if needed.
 
 ## Acknowledgments
 - H Runner team for proving the concept of edge intelligence
