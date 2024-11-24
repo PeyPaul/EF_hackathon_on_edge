@@ -23,6 +23,8 @@ Recent developments, such as H Runner, have shown that intelligence on the edge 
 
 ### Two Dataset Approaches
 
+You can find the datasets [here](https://huggingface.co/datasets/anonx3247/web_agents_google_flight_trajectories/tree/main)
+
 #### Dataset 1: Screenshot to Playwright Code
 - Input: Screenshot of web interface
 - Output: Complete Playwright code for navigation
@@ -47,6 +49,8 @@ Our experiments show that:
 - PaliGemma can successfully overfit to specific tasks like flight booking
 - The simplified action prediction approach (Dataset 2) shows more robust performance
 - Automated generation using large models is possible but with varying degrees of reliability
+
+You can find our finetuned model [here](https://huggingface.co/axel-darmouni/paligemma_dataset2)
 
 ## Next Steps
 - Expand the dataset to cover more web-based tasks
